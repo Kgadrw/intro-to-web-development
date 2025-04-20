@@ -23,6 +23,11 @@ li {
   list-style-type: none;
   margin: 0 12px;
 }
+li a{
+  text-decoration: none;
+  color: #333;
+  
+}
 .hero {
   background-image: url('/images/hero.png');
   height: 500px;
